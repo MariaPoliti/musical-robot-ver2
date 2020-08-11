@@ -1,4 +1,4 @@
-# SET UP FILE:
+﻿# SET UP FILE:
 # in order to run in notebooks as an import musicalrobot
 # 1. Git clone the repository to a local computer
 # 2. go to the outermost musical-robot folder
@@ -8,9 +8,9 @@
 from setuptools import setup
 
 setup(name = 'musicalrobot',
-    version = '0.96',
+    version = '0.97',
     packages = ['musicalrobot'],
-    url = 'https://github.com/pozzocapstone/musical-robot',
+    url = 'https://github.com/MariaPoliti/musical-robot-ver2',
     license = 'MIT',
     author = 'Shrilakshmi Bonageri, Jaime Rodriguez, Sage Scheiwiller',
     description= 'A package for high-throughput measurement of deep eutectic solvents’ melting point using IR bolometry',
